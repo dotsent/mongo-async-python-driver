@@ -1,4 +1,4 @@
-python-txmongo (0.3-1) stable; urgency=low
+python-txmongo (0.3-1) precise; urgency=low
 
   * Backporting to Stable
 
